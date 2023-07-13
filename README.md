@@ -29,7 +29,7 @@ Sitio web Playground para practicar html css y javascript basico , desarollados 
 
 ## Como testear
 
-Usted puede acceder al demo en la siguiente url: https://github.com/DubstepQBA/Playground
+Usted puede acceder al demo en la siguiente url: https://monumental-bublanina-0f71a2.netlify.app/
 
 o en su máquina local con los siguientes codigo:
 
