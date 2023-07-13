@@ -29,12 +29,12 @@ Sitio web Playground para practicar html css y javascript basico , desarollados 
 
 ## Como testear
 
-Usted puede acceder al demo en la siguiente url: https://tasks-app-aridsm.netlify.app/
+Usted puede acceder al demo en la siguiente url: https://github.com/DubstepQBA/Playground
 
 o en su máquina local con los siguientes codigo:
 
 ```
-git clone https://github.com/aridsm/tasks-app.git
+git clone https://github.com/DubstepQBA/Playground.git
 cd tasks-app
 npm install
 npm start
